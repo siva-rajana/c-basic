@@ -19,9 +19,6 @@ void main()
    printf("product of %d and %d is %d\n",a,b,P);
    printf("division of %d and %d is %d\n",a,b,D);
    printf("module of %d and %d is %d",a,b,M);
-   
-   
-	
 }
    
    
